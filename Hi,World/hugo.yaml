@@ -1,7 +1,7 @@
 baseURL: http://example.org/
 languageCode: zh-cn
 title: 木的一亩三分地
-theme: hugo-PaperMod
+theme: PaperMod
 
 
 enableInlineShortcodes: true #允许内联短码
