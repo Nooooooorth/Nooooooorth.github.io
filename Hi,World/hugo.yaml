@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://wjy1478.github.io/
 languageCode: zh-cn
 title: 木的一亩三分地
 theme: PaperMod
@@ -26,9 +26,6 @@ minify:
 permalinks: #浏览器链接显示方式
   post: "/:title/"
   # post: "/:year/:month/:day/:title/"
-
-defaultContentLanguage: en # 最顶部首先展示的语言页面
-defaultContentLanguageInSubdir: true
 
 languages:
     en:
