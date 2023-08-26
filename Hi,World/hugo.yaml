@@ -1,6 +1,6 @@
 baseURL: https://wjy1478.github.io/
 languageCode: zh-cn
-title: 木的一亩三分地
+title: 祝你也祝我
 theme: PaperMod
 
 
@@ -87,7 +87,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     # description: "这是一个纯粹的博客......"
-    author: Sulv
+    author: Me
     # author: ["Me", "You"] # multiple authors
     defaultTheme: auto  # defaultTheme: light or  dark 
     disableThemeToggle: false
@@ -113,18 +113,18 @@ params:
     socialIcons:
         - name: github
           url: "https://github.com/wjy1478"
-        - name: twitter
-          url:  "img/twitter.png"
-        - name: facebook
-          url: "https://www.facebook.com/profile.php?id=100027782410997"
-        - name: instagram
-          url: "img/instagram.png"
-        - name: QQ
-          url: "img/qq.png"
-        - name: WeChat
-          url: "img/wechat.png"
-        - name: email
-          url: "mailto:1931559710@qq.com"
+        # - name: twitter
+        #   url:  "img/twitter.png"
+        # - name: facebook
+        #   url: "https://www.facebook.com/profile.php?id=100027782410997"
+        # - name: instagram
+        #   url: "img/instagram.png"
+        # - name: QQ
+        #   url: "img/qq.png"
+        # - name: WeChat
+        #   url: "img/wechat.png"
+        # - name: email
+        #   url: "mailto:1931559710@qq.com"
         - name: RSS
           url: "index.xml"
 
@@ -134,10 +134,10 @@ params:
     #     appendFilePath: true # to append file path to Edit link
 
     label:
-      text: "Sulv's Blog"
+      text: "祝你也祝我"
       #icon: "img/Q.gif"
-      icon: "https://www.sulvblog.cn/Q.gif"
-      iconHeight: 35
+      # icon: "https://www.sulvblog.cn/Q.gif"
+      # iconHeight: 35
 
     # analytics:  #谷歌分析
     #     google:
