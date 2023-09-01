@@ -140,7 +140,7 @@ params:
       text: "祝你也祝我"
       icon: "img/rocket-3431.png"
       # icon: "https://www.sulvblog.cn/Q.gif"
-      iconHeight: 35
+      iconHeight: 25
 
     # analytics:  #谷歌分析
     #     google:
