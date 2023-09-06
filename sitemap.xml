@@ -2,28 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wjy1478.github.io/posts/bye/</loc>
-    <lastmod>2023-08-31T12:46:37+00:00</lastmod>
-  </url><url>
     <loc>https://wjy1478.github.io/categories/</loc>
+    <lastmod>2023-09-06T12:13:03+00:00</lastmod>
+  </url><url>
+    <loc>https://wjy1478.github.io/tags/life/</loc>
+    <lastmod>2023-09-06T12:13:03+00:00</lastmod>
+  </url><url>
+    <loc>https://wjy1478.github.io/posts/</loc>
+    <lastmod>2023-09-06T12:13:03+00:00</lastmod>
+  </url><url>
+    <loc>https://wjy1478.github.io/tags/</loc>
+    <lastmod>2023-09-06T12:13:03+00:00</lastmod>
+  </url><url>
+    <loc>https://wjy1478.github.io/posts/%E4%B8%8B%E4%B8%80%E6%AD%A5/</loc>
+    <lastmod>2023-09-06T12:13:03+00:00</lastmod>
+  </url><url>
+    <loc>https://wjy1478.github.io/</loc>
+    <lastmod>2023-09-06T12:13:03+00:00</lastmod>
+  </url><url>
+    <loc>https://wjy1478.github.io/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/</loc>
+    <lastmod>2023-09-06T12:13:03+00:00</lastmod>
+  </url><url>
+    <loc>https://wjy1478.github.io/posts/bye/</loc>
     <lastmod>2023-08-31T12:46:37+00:00</lastmod>
   </url><url>
     <loc>https://wjy1478.github.io/categories/category-1/</loc>
     <lastmod>2023-08-31T12:46:37+00:00</lastmod>
   </url><url>
     <loc>https://wjy1478.github.io/categories/category-2/</loc>
-    <lastmod>2023-08-31T12:46:37+00:00</lastmod>
-  </url><url>
-    <loc>https://wjy1478.github.io/tags/life/</loc>
-    <lastmod>2023-08-31T12:46:37+00:00</lastmod>
-  </url><url>
-    <loc>https://wjy1478.github.io/posts/</loc>
-    <lastmod>2023-08-31T12:46:37+00:00</lastmod>
-  </url><url>
-    <loc>https://wjy1478.github.io/tags/</loc>
-    <lastmod>2023-08-31T12:46:37+00:00</lastmod>
-  </url><url>
-    <loc>https://wjy1478.github.io/</loc>
     <lastmod>2023-08-31T12:46:37+00:00</lastmod>
   </url><url>
     <loc>https://wjy1478.github.io/posts/next/</loc>
