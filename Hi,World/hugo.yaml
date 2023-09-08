@@ -112,6 +112,12 @@ params:
     TocOpen: true # 自动展开目录
 
     comments: true
+    utteranc:
+      enable: true
+      repo: "https://github.com/Nooooooorth/Nooooooorth.github.io" 
+      issueTerm: "title"
+      theme: "github-light"  
+
     
     socialIcons:
         - name: github
