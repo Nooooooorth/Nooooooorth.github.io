@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>祝你也祝我</title>
-    <link>/https://nooooooorth.github.io/</link>
+    <link>https://nooooooorth.github.io/</link>
     <description>Recent content on 祝你也祝我</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Sep 2023 12:13:03 +0000</lastBuildDate><atom:link href="/https://nooooooorth.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Sep 2023 12:13:03 +0000</lastBuildDate><atom:link href="https://nooooooorth.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>下一步</title>
-      <link>/https://nooooooorth.github.io/posts/%E4%B8%8B%E4%B8%80%E6%AD%A5/</link>
+      <link>https://nooooooorth.github.io/posts/%E4%B8%8B%E4%B8%80%E6%AD%A5/</link>
       <pubDate>Wed, 06 Sep 2023 12:13:03 +0000</pubDate>
       
-      <guid>/https://nooooooorth.github.io/posts/%E4%B8%8B%E4%B8%80%E6%AD%A5/</guid>
+      <guid>https://nooooooorth.github.io/posts/%E4%B8%8B%E4%B8%80%E6%AD%A5/</guid>
       <description>nothing</description>
     </item>
     
     <item>
       <title>Bye</title>
-      <link>/https://nooooooorth.github.io/posts/bye/</link>
+      <link>https://nooooooorth.github.io/posts/bye/</link>
       <pubDate>Thu, 31 Aug 2023 12:46:37 +0000</pubDate>
       
-      <guid>/https://nooooooorth.github.io/posts/bye/</guid>
+      <guid>https://nooooooorth.github.io/posts/bye/</guid>
       <description>哪里是江湖呢</description>
     </item>
     
     <item>
       <title>Next</title>
-      <link>/https://nooooooorth.github.io/posts/next/</link>
+      <link>https://nooooooorth.github.io/posts/next/</link>
       <pubDate>Sat, 26 Aug 2023 12:45:36 +0000</pubDate>
       
-      <guid>/https://nooooooorth.github.io/posts/next/</guid>
+      <guid>https://nooooooorth.github.io/posts/next/</guid>
       <description>建站相关</description>
     </item>
     
     <item>
       <title>Hi,world</title>
-      <link>/https://nooooooorth.github.io/posts/hiworld/</link>
+      <link>https://nooooooorth.github.io/posts/hiworld/</link>
       <pubDate>Sat, 26 Aug 2023 07:46:51 +0000</pubDate>
       
-      <guid>/https://nooooooorth.github.io/posts/hiworld/</guid>
+      <guid>https://nooooooorth.github.io/posts/hiworld/</guid>
       <description>你好这个世界 祝你也祝我，勇敢且坚强、乐观且豁达 1 2 3 public static void main(String[] args) { System.out.println(&amp;#34;for you and me&amp;#34;); }</description>
     </item>
     

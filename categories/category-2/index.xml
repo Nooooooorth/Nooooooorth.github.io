@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>category 2 on 祝你也祝我</title>
-    <link>/https://nooooooorth.github.io/categories/category-2/</link>
+    <link>https://nooooooorth.github.io/categories/category-2/</link>
     <description>Recent content in category 2 on 祝你也祝我</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Aug 2023 12:46:37 +0000</lastBuildDate><atom:link href="/https://nooooooorth.github.io/categories/category-2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Aug 2023 12:46:37 +0000</lastBuildDate><atom:link href="https://nooooooorth.github.io/categories/category-2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bye</title>
-      <link>/https://nooooooorth.github.io/posts/bye/</link>
+      <link>https://nooooooorth.github.io/posts/bye/</link>
       <pubDate>Thu, 31 Aug 2023 12:46:37 +0000</pubDate>
       
-      <guid>/https://nooooooorth.github.io/posts/bye/</guid>
+      <guid>https://nooooooorth.github.io/posts/bye/</guid>
       <description>哪里是江湖呢</description>
     </item>
     
     <item>
       <title>Next</title>
-      <link>/https://nooooooorth.github.io/posts/next/</link>
+      <link>https://nooooooorth.github.io/posts/next/</link>
       <pubDate>Sat, 26 Aug 2023 12:45:36 +0000</pubDate>
       
-      <guid>/https://nooooooorth.github.io/posts/next/</guid>
+      <guid>https://nooooooorth.github.io/posts/next/</guid>
       <description>建站相关</description>
     </item>
     
